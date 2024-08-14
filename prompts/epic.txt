@@ -1,0 +1,7 @@
+High-level product idea:
+
+- A website for English language speakers to learn other languages.
+- Tone is engaging and playful.
+- Lessons feature real-world situations where language acquisition can be tested.
+
+Please generate 8-10 stories with titles and descriptions and concatenate them all into the output file stories.txt.
